@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "es5",
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "sourceMap": true,
+    "allowJs": true,
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "jsx": "react"
+  }
+}
